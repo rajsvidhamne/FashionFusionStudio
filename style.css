@@ -1,0 +1,30 @@
+body {
+   font-family: Arial, sans-serif;
+   background-color: #f8f9fa;
+}
+
+.jumbotron.bg-cover {
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.card img {
+   height: 300px;
+   object-fit: cover;
+}
+
+#about {
+   padding: 60px 0;
+}
+
+#contact {
+   padding: 60px 0;
+}
+
+footer {
+   background-color: #343a40;
+}
